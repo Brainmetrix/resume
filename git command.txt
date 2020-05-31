@@ -1,0 +1,3 @@
+git add .  //adds all the files to commit
+git commit -m 'added files' //commits the files
+git push -u origin master //pushes all changes to remote repo
