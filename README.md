@@ -1,20 +1,14 @@
-# My Portfolio
+## My Portfolio
 
 ### LIVE URL: https://tiny.cc/vks
 
-### Technology Used
-HTML5,
-CSS3,
-Javascript,
-Tailwind CSS
-
 ### Built With
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/)
-* [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3/)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-* [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for
-rapidly building custom designs.
+![Badger Badger Badger](https://img.shields.io/badge/HTML%205-orange)
+![Badger Badger Badger](https://img.shields.io/badge/CSS%203-blue)
+![Badger Badger Badger](https://img.shields.io/badge/Javascript-yellow)
+![Badger Badger Badger](https://img.shields.io/badge/Tailwind%20CSS-success)
 
-## Authors
+### Authors
+![Badger Badger Badger](https://img.shields.io/badge/Vivek%20Singh-Rajput-orange)
 
-* **Vivek Singh Rajput** - *Initial work* - [BrainMetrix](https://github.com/Brainmetrix)
+*Initial work* - [BrainMetrix](https://github.com/Brainmetrix)
