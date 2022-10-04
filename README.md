@@ -1,6 +1,6 @@
 ## My Portfolio
 
-### LIVE URL: https://tiny.cc/vks
+### LIVE URL: 
 
 ### Built With
 ![Badger Badger Badger](https://img.shields.io/badge/HTML%205-orange)
